@@ -2,6 +2,8 @@ Project: Linux Server Configuration (nd004)
 ===========================================
 This is part of the project submission under the Full Stack Nano Degree program of Udacity, authored by Ashish Nitin Patil. Kindly respect the [Udacity Honor Code](https://udacity.zendesk.com/hc/en-us/articles/210667103-What-is-the-Udacity-Honor-Code-).
 
+[Live Demo](http://ec2-13-228-25-156.ap-southeast-1.compute.amazonaws.com/)
+-----------
 
 Project brief
 -------------
