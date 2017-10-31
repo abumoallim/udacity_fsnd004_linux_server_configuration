@@ -84,6 +84,7 @@ Steps Followed
     - Copy sample_secrets.json to secrets.json and edit the secrets  
       `SQLALCHEMY_DATABASE_URI: "postgresql://catalog:catalog@localhost/catalog"`
     - Edit the `REDIRECT_URI` in item_catalog_app/settings.py with correct IP
+    - Activate virtualenv, and do `flask db upgrade`
 - Setup Apache
     - Ensure mod_wsgi is enabled: `sudo a2enmod wsgi`
     - Create a item_catalog_app.wsgi file  
